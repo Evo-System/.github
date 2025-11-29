@@ -61,7 +61,7 @@ Nosso aplicativo realiza uma **varredura detalhada** no sistema, detectando poss
 - **Documentação** – Reúne informações sobre arquitetura, funcionalidades e requisitos do sistema.
 - (https://docs.google.com/document/d/16WbK3WD7hhQQaWv8smhe4gcTxr6Ynm67/edit?usp=sharing&ouid=111441773678961149686&rtpof=true&sd=true)
 
-###✅ Relatório de Testes
+### ✅ Relatório de Testes
 - Relatório de Testes – Apresenta os resultados dos testes realizados, incluindo casos de teste executados, bugs encontrados e a verificação do atendimento aos requisitos.
 - (https://docs.google.com/document/d/1D0ySge9Dcs09s8kLd5HVUwoUFgTNyvMOftKPp2lk1GU/edit?usp=sharing)
 ### 📋 Requisitos
