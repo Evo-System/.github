@@ -72,6 +72,10 @@ Nosso aplicativo realiza uma **varredura detalhada** no sistema, detectando poss
 - **Google Forms** – Ferramenta utilizada para coleta de dados e feedback dos usuários.
 - (https://forms.gle/67ihd1JQHLizUfPM8)
 
+### 📑 Relatório Final
+- Reúne os principais pontos tratados durante o projeto.
+- (https://docs.google.com/document/d/1NCfGhEySIeQEh4yb6Oq0eyVoRM_7l4CtFEPG-5lJBGU/edit?usp=sharing)
+  
 ---
 
 ## 📍 Status do Projeto
