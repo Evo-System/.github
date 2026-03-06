@@ -1,11 +1,11 @@
 # EvoSystem - Sistema de Diagnóstico e Otimização de PCs
 
 ## 📋 Sobre o Projeto
-Com o aumento da dependência de computadores para trabalho, estudos e lazer, o desempenho do sistema operacional tornou-se um fator crítico para a produtividade e a experiência do usuário. No entanto, muitos usuários enfrentam problemas recorrentes de lentidão, travamentos e instabilidade, muitas vezes sem compreender as causas reais por trás dessas falhas.
+Com o aumento do uso de computadores para trabalho, estudos e lazer, compreender o funcionamento dos componentes de hardware tornou-se essencial para garantir bom desempenho e maior durabilidade das máquinas. No entanto, muitos usuários utilizam seus computadores sem conhecer o papel de cada componente ou a importância deles para o funcionamento do sistema.
 
-Grande parte dessas dificuldades decorre de configurações inadequadas, sobrecarga de processos e falta de manutenção preventiva do sistema. Apesar de existirem ferramentas de diagnóstico no mercado, muitas delas são complexas, exigem conhecimentos técnicos avançados ou não fornecem recomendações claras para correção dos problemas identificados.
+A falta dessas informações dificulta a identificação de possíveis gargalos de desempenho e impede que o usuário saiba quando realizar melhorias ou manutenções no equipamento. Além disso, muitos não possuem acesso a explicações claras sobre como cada componente influencia na performance geral do computador.
 
-Diante desse cenário, este projeto surge com a proposta de desenvolver um aplicativo desktop acessível e intuitivo, capaz de executar uma série de testes automáticos no sistema operacional do usuário. O objetivo é detectar gargalos, falhas de desempenho e configurações incorretas, além de sugerir melhorias personalizadas para otimizar o funcionamento da máquina e reduzir falhas operacionais.
+Diante disso, este projeto propõe o desenvolvimento de um aplicativo desktop voltado para a geração de relatórios informativos sobre o hardware do computador. O sistema apresentará estimativas de vida útil dos componentes, recomendações para melhoria de desempenho e explicações sobre a função e importância de cada peça analisada.
 
 ---
 
