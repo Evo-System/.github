@@ -50,7 +50,7 @@ Nosso aplicativo gera um **relatório detalhado do hardware**, apresentando info
 
 ### 🗓️ Planejamento e Acompanhamento
 - **GitHub Projects** – Usado para gerenciar tarefas, acompanhar o progresso e organizar o fluxo de trabalho.
-- (https://github.com/orgs/Evo-System/projects/3)
+- https://github.com/orgs/ByteReports/projects
 
 ### 💻 Desenvolvimento
 - **Visual Studio 2022** – Ambiente principal de desenvolvimento, com suporte a extensões e integração com Git.
